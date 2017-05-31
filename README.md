@@ -18,3 +18,5 @@ A screenshot can be found here: https://github.com/firstlookmedia/gpgsync/wiki/C
 | Fingerprints URL | https://raw.githubusercontent.com/ubirch/ubirch-gpg-sync/master/fingerprints.txt |
 | Keyserver        | hkps://hkps.pool.sks-keyservers.net                                              |
 
+If necessary you can either import the signing key from this directory or [download it from a keyserver](https://sks-keyservers.net/pks/lookup?op=get&search=0xE3F2A04C7C9671C7).
+
