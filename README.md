@@ -8,6 +8,18 @@
 
 See https://github.com/firstlookmedia/gpgsync#getting-gpg-sync
 
+### MacOS
+
+Download and install the client from: https://github.com/firstlookmedia/gpgsync/releases
+
+### Linux (Debian/Ubuntu/Mint)
+
+    sudo apt install -y python3-pyqt5 python3-nose python3-stdeb python3-requests python3-socks python3-packaging python3-dateutil gnupg2
+    git clone https://github.com/firstlookmedia/gpgsync.git
+    cd gpgsync
+    ./install/build_deb.sh
+    sudo dpkg -i deb_dist/gpgsync_*.deb
+
 ## Configure Client
 
 A screenshot can be found here: https://github.com/firstlookmedia/gpgsync/wiki/Configuring-GPG-Sync-on-everyone's-computers and you only have to enter the information from the table below.
