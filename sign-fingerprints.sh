@@ -1,3 +1,3 @@
 #!/bin/sh
-gpg2 -u 206D96C4190F81419F34DD9BF272D1BC80BB7387 --detach-sign fingerprints.txt
+gpg2 -u EEC8A807595873988AC5E6E1E3F2A04C7C9671C7 --detach-sign fingerprints.txt
 

@@ -14,7 +14,7 @@ A screenshot can be found here: https://github.com/firstlookmedia/gpgsync/wiki/C
 
 | Field            | Value                                                                            |
 | ---------------- | -------------------------------------------------------------------------------- |
-| GPG Fingerprint  | 206D 96C4 190F 8141 9F34 DD9B F272 D1BC 80BB 7387                                |
+| GPG Fingerprint  | EEC8A807595873988AC5E6E1E3F2A04C7C9671C7                                         |
 | Fingerprints URL | https://raw.githubusercontent.com/ubirch/ubirch-gpg-sync/master/fingerprints.txt |
 | Keyserver        | hkps://hkps.pool.sks-keyservers.net                                              |
 
